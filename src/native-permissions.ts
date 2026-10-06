@@ -1,9 +1,11 @@
-import { Capacitor } from '@capacitor/core'
+import { Capacitor, registerPlugin } from '@capacitor/core'
 import { Geolocation } from '@capacitor/geolocation'
 import { LocalNotifications } from '@capacitor/local-notifications'
 
 type PrayerInput = { name: string; hour: number; minute: number }
 type ScheduleOptions = { dailyHour?: number; dailyEnabled?: boolean }
+type AdhanPlugin = { schedule(options: { prayers: PrayerInput[] }): Promise<{ scheduled: number }>; stop(): Promise<void> }
+const Adhan = registerPlugin<AdhanPlugin>('YawaqitAdhan')
 
 const CHANNELS = [
   { id: 'prayer_fajr', name: 'أذان الفجر', description: 'إشعار أذان الفجر بصوت مستقل', sound: 'adhan_fajr.mp3' },
@@ -54,16 +56,11 @@ async function schedulePrayerNotifications(prayers: PrayerInput[], options: Sche
     await Promise.allSettled(CHANNELS.map(channel => LocalNotifications.createChannel({
       ...channel, importance: 5, visibility: 1, vibration: true, lights: true, lightColor: '#C99B45',
     })))
-    const notifications: any[] = prayers.slice(0, 5).map((prayer, index) => ({
-      id: 4100 + index,
-      title: `حان الآن وقت صلاة ${prayer.name}`,
-      body: prayer.name === 'الفجر' ? 'الصلاة خير من النوم · يواقيت' : 'حي على الصلاة · تقبل الله طاعتكم',
-      channelId: prayer.name === 'الفجر' ? 'prayer_fajr' : 'prayer_makkah',
-      sound: prayer.name === 'الفجر' ? 'adhan_fajr.mp3' : 'adhan_madina.mp3',
-      schedule: { at: nextAt(prayer.hour, prayer.minute), repeats: true, allowWhileIdle: true },
-      autoCancel: true,
-      extra: { type: 'prayer', prayer: prayer.name },
-    }))
+    // Android uses the native exact-alarm receiver for the adhan. This avoids
+    // the short, one-shot limitation of notification sounds and supports a
+    // full-screen alert while the device is locked.
+    if (Capacitor.getPlatform() === 'android') await Adhan.schedule({ prayers: prayers.slice(0, 5) })
+    const notifications: any[] = []
     const dailyHour = Math.max(0, Math.min(23, Number(options.dailyHour ?? 10)))
     if (options.dailyEnabled !== false) {
       notifications.push(
