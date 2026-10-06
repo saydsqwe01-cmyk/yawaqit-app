@@ -1,6 +1,6 @@
 {
   "appId": "com.yawaqit.app",
-  "appName": "يَوَاقِيت",
+  "appName": "يواقيت المسلم",
   "webDir": "dist",
   "bundledWebRuntime": false,
   "android": {
