@@ -24,10 +24,10 @@ jobs:
       - run: npx cap sync android
       - name: Prepare notification sounds and permissions
         run: node scripts/prepare-android-notifications.mjs
-      - name: Install Android SDK packages
-        run: |
-          yes | sdkmanager --licenses >/dev/null || true
-          sdkmanager "platform-tools" "platforms;android-36" "build-tools;36.0.0"
+      - uses: android-actions/setup-android@v3
+        with:
+          packages: 'platform-tools platforms;android-36 build-tools;36.0.0'
+          accept-android-sdk-licenses: true
       - name: Build debug APK
         working-directory: android
         run: ./gradlew assembleDebug
