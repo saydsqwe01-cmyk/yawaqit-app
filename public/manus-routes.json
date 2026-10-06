@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "يَوَاقِيت"
+    },
+    {
+      "path": "/quran",
+      "title": "المصحف الشريف"
+    },
+    {
+      "path": "/tasbeeh",
+      "title": "السبحة الإلكترونية"
+    },
+    {
+      "path": "/stories",
+      "title": "قصص الأنبياء"
+    },
+    {
+      "path": "/videos",
+      "title": "الفيديوهات والخطب"
+    },
+    {
+      "path": "/reciters",
+      "title": "القراء"
+    },
+    {
+      "path": "/hadith",
+      "title": "الأحاديث النبوية"
+    },
+    {
+      "path": "/adhkar",
+      "title": "الأذكار"
+    },
+    {
+      "path": "/tafsir",
+      "title": "التفاسير"
+    },
+    {
+      "path": "/prayer-times",
+      "title": "مواقيت الصلاة"
+    },
+    {
+      "path": "/quran-duas",
+      "title": "أدعية قرآنية"
+    },
+    {
+      "path": "/settings",
+      "title": "الإعدادات"
+    }
+  ]
+}

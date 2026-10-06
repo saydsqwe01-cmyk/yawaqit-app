@@ -1,0 +1,1525 @@
+{
+ "count": 190,
+ "editions": [
+  {
+   "identifier": "ar.abdulbasitmurattal",
+   "language": "ar",
+   "name": "عبد الباسط عبد الصمد المرتل",
+   "englishName": "Abdul Basit",
+   "type": "translation",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdullahbasfar",
+   "language": "ar",
+   "name": "عبد الله بصفر",
+   "englishName": "Abdullah Basfar",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdurrahmaansudais",
+   "language": "ar",
+   "name": "عبدالرحمن السديس",
+   "englishName": "Abdurrahmaan As-Sudais",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulsamad",
+   "language": "ar",
+   "name": "عبدالباسط عبدالصمد",
+   "englishName": "Abdul Samad",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.shaatree",
+   "language": "ar",
+   "name": "أبو بكر الشاطري",
+   "englishName": "Abu Bakr Ash-Shaatree",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmedajamy",
+   "language": "ar",
+   "name": "أحمد بن علي العجمي",
+   "englishName": "Ahmed ibn Ali al-Ajamy",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.alafasy",
+   "language": "ar",
+   "name": "مشاري العفاسي",
+   "englishName": "Alafasy",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.hanirifai",
+   "language": "ar",
+   "name": "هاني الرفاعي",
+   "englishName": "Hani Rifai",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.husary",
+   "language": "ar",
+   "name": "محمود خليل الحصري",
+   "englishName": "Husary",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.husarymujawwad",
+   "language": "ar",
+   "name": "محمود خليل الحصري (المجود)",
+   "englishName": "Husary (Mujawwad)",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.hudhaify",
+   "language": "ar",
+   "name": "علي بن عبدالرحمن الحذيفي",
+   "englishName": "Hudhaify",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ibrahimakhbar",
+   "language": "ar",
+   "name": "إبراهيم الأخضر",
+   "englishName": "Ibrahim Akhdar",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mahermuaiqly",
+   "language": "ar",
+   "name": "ماهر المعيقلي",
+   "englishName": "Maher Al Muaiqly",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.minshawi",
+   "language": "ar",
+   "name": "محمد صديق المنشاوي",
+   "englishName": "Minshawi",
+   "type": "translation",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.minshawimujawwad",
+   "language": "ar",
+   "name": "محمد صديق المنشاوي (المجود)",
+   "englishName": "Minshawy (Mujawwad)",
+   "type": "translation",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadayyoub",
+   "language": "ar",
+   "name": "محمد أيوب",
+   "englishName": "Muhammad Ayyoub",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadjibreel",
+   "language": "ar",
+   "name": "محمد جبريل",
+   "englishName": "Muhammad Jibreel",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.saoodshuraym",
+   "language": "ar",
+   "name": "سعود الشريم",
+   "englishName": "Saood bin Ibraaheem Ash-Shuraym",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "en.walk",
+   "language": "en",
+   "name": "Ibrahim Walk",
+   "englishName": "Ibrahim Walk",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "fa.hedayatfarfooladvand",
+   "language": "fa",
+   "name": "فولادوند (با صدای هدایت‌فر)",
+   "englishName": "Fooladvand (read by Hedayatfar)",
+   "type": "translation",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.parhizgar",
+   "language": "ar",
+   "name": "شهریار پرهیزگار",
+   "englishName": "Parhizgar",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ur.khan",
+   "language": "ur",
+   "name": "شمشاد علی خان",
+   "englishName": "Shamshad Ali Khan",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "zh.chinese",
+   "language": "zh",
+   "name": "中文",
+   "englishName": "Chinese",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "fr.leclerc",
+   "language": "fr",
+   "name": "Youssouf Leclerc",
+   "englishName": "Youssouf Leclerc",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.aymanswoaid",
+   "language": "ar",
+   "name": "أيمن سويد",
+   "englishName": "Ayman Sowaid",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ru.kuliev-audio",
+   "language": "ru",
+   "name": "Эльмир Кулиев (1MuslimApp)",
+   "englishName": "Elmir Kuliev by 1MuslimApp",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ru.kuliev-audio-2",
+   "language": "ru",
+   "name": "Эльмир Кулиев 2 (1MuslimApp)",
+   "englishName": "Elmir Kuliev 2 by 1MuslimApp",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "kk.khalifahaltai-audio",
+   "language": "kk",
+   "name": "Қазақ - Халифа Алтайдың",
+   "englishName": "Kazakh Translation Audio by Khalifah Altai",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.alafasy-2",
+   "language": "ar",
+   "name": "مشاري العفاسي",
+   "englishName": "Alafasy",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.husary-2",
+   "language": "ar",
+   "name": "محمود خليل الحصري",
+   "englishName": "Husary",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mahermuaiqly-2",
+   "language": "ar",
+   "name": "ماهر المعيقلي",
+   "englishName": "Maher Al Muaiqly",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.hudhaify-2",
+   "language": "ar",
+   "name": "علي بن عبدالرحمن الحذيفي",
+   "englishName": "Hudhaify",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.husarymujawwad-2",
+   "language": "ar",
+   "name": "محمود خليل الحصري (المجود)",
+   "englishName": "Husary (Mujawwad)",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.minshawi-2",
+   "language": "ar",
+   "name": "محمد صديق المنشاوي",
+   "englishName": "Minshawi",
+   "type": "translation",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadayyoub-2",
+   "language": "ar",
+   "name": "محمد أيوب",
+   "englishName": "Muhammad Ayyoub",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadjibreel-2",
+   "language": "ar",
+   "name": "محمد جبريل",
+   "englishName": "Muhammad Jibreel",
+   "type": "versebyverse",
+   "format": "audio"
+  },
+  {
+   "identifier": "tr.vakfi-audio",
+   "language": "tr",
+   "name": "Diyanet Vakfı",
+   "englishName": "Diyanet Vakfı",
+   "type": "translation",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulazizazzahrani",
+   "language": "ar",
+   "name": "عبد العزيز الزهراني",
+   "englishName": "Abdul Aziz az-Zahrani",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulbariaththubaity",
+   "language": "ar",
+   "name": "عبد الباري الثبيتي",
+   "englishName": "Abdul Bari ath-Thubaity",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulbarimohammed",
+   "language": "ar",
+   "name": "عبد الباري محمد",
+   "englishName": "Abdul Bari Mohammed",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulbasitmujawwad",
+   "language": "ar",
+   "name": "عبد الباسط عبد الصمد (مجوَّد)",
+   "englishName": "Abdul Basit Abdus-Samad (Mujawwad)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulbasitmurattal-surah",
+   "language": "ar",
+   "name": "عبد الباسط عبد الصمد (مرتَّل)",
+   "englishName": "Abdul Basit Abdus-Samad (Murattal)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulkareemalhazmi",
+   "language": "ar",
+   "name": "عبد الكريم الحازمي",
+   "englishName": "Abdul Kareem al-Hazmi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdullahalmatrood",
+   "language": "ar",
+   "name": "عبد الله المطرود",
+   "englishName": "Abdullah al-Matrood",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdullahawadaljuhani",
+   "language": "ar",
+   "name": "عبد الله عواد الجهني",
+   "englishName": "Abdullah Awad al-Juhani",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdullahbasfar-surah",
+   "language": "ar",
+   "name": "عبد الله بصفر",
+   "englishName": "Abdullah Basfar",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdullahkhayat",
+   "language": "ar",
+   "name": "عبد الله خياط",
+   "englishName": "Abdullah Khayat",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdullahkhulaifi",
+   "language": "ar",
+   "name": "عبد الله الخليفي",
+   "englishName": "Abdullah al-Khulaifi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulmohsenalharthy",
+   "language": "ar",
+   "name": "عبد المحسن الحارثي",
+   "englishName": "Abdul Mohsen al-Harthy",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulmunimabdulmubdi",
+   "language": "ar",
+   "name": "عبد المنعم عبد المبدئ",
+   "englishName": "Abdul Munim Abdul Mubdi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdulwadoodhaneef",
+   "language": "ar",
+   "name": "عبد الودود حنيف",
+   "englishName": "Abdul Wadood Haneef",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdurrasheedsufiabialhaarithanalkasaaee",
+   "language": "ar",
+   "name": "عبد الرشيد صوفي (أبو الحارث عن الكسائي)",
+   "englishName": "Abdur-Rasheed Sufi (Abul-Harith from al-Kisa'i)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdurrasheedsufiaddoorianabiamr",
+   "language": "ar",
+   "name": "عبد الرشيد صوفي (الدوري عن أبي عمرو)",
+   "englishName": "Abdur-Rasheed Sufi (ad-Doori from Abu Amr)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdurrasheedsufishubahanasim",
+   "language": "ar",
+   "name": "عبد الرشيد صوفي (شعبة عن عاصم)",
+   "englishName": "Abdur-Rasheed Sufi (Shu'bah from Asim)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abdurrasheedsufisoosi",
+   "language": "ar",
+   "name": "عبد الرشيد صوفي (السوسي)",
+   "englishName": "Abdur-Rasheed Sufi (as-Soosi)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abuabdullahmuniraltounsi",
+   "language": "ar",
+   "name": "أبو عبد الله منير التونسي",
+   "englishName": "Abu Abdullah Munir at-Tounsi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.abubakraldhabi",
+   "language": "ar",
+   "name": "أبو بكر الذهبي",
+   "englishName": "Abu Bakr adh-Dhabi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.adilkalbani",
+   "language": "ar",
+   "name": "عادل الكلباني",
+   "englishName": "Adil al-Kalbani",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmadalhawashy",
+   "language": "ar",
+   "name": "أحمد الحواشي",
+   "englishName": "Ahmad al-Hawashy",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmadkhaderaltarabulsi",
+   "language": "ar",
+   "name": "أحمد خضر الطرابلسي",
+   "englishName": "Ahmad Khader at-Tarabulsi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmadsulaiman",
+   "language": "ar",
+   "name": "أحمد سليمان",
+   "englishName": "Ahmad Sulaiman",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmedalajmi",
+   "language": "ar",
+   "name": "أحمد العجمي",
+   "englishName": "Ahmed al-Ajmi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmedalhammad",
+   "language": "ar",
+   "name": "أحمد الحماد",
+   "englishName": "Ahmed al-Hammad",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmedalmisbahi",
+   "language": "ar",
+   "name": "أحمد المصباحي",
+   "englishName": "Ahmed al-Misbahi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmedamir",
+   "language": "ar",
+   "name": "أحمد عامر",
+   "englishName": "Ahmed Amir",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmedmohamedsalama",
+   "language": "ar",
+   "name": "أحمد محمد سلامة",
+   "englishName": "Ahmed Mohamed Salama",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ahmedsaber",
+   "language": "ar",
+   "name": "أحمد صابر",
+   "englishName": "Ahmed Saber",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.alafasy-surah",
+   "language": "ar",
+   "name": "مشاري راشد العفاسي",
+   "englishName": "Mishary Rashid Alafasy",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.alashryomran",
+   "language": "ar",
+   "name": "العشري عمران",
+   "englishName": "al-Ashry Omran",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.alfatehmuhammadzubair",
+   "language": "ar",
+   "name": "الفاتح محمد الزبير",
+   "englishName": "al-Fateh Muhammad Zubair",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.alhusaynialazazi",
+   "language": "ar",
+   "name": "الحسيني العزازي",
+   "englishName": "al-Husayni al-Azazi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.alhusaynialazazichildren",
+   "language": "ar",
+   "name": "الحسيني العزازي (مع الأطفال)",
+   "englishName": "al-Husayni al-Azazi (with children)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.aliabdurrahmanalhuthaify",
+   "language": "ar",
+   "name": "علي عبد الرحمن الحذيفي",
+   "englishName": "Ali Abdur-Rahman al-Huthaify",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.aliabdurrahmanalhuthaifyqaloon",
+   "language": "ar",
+   "name": "علي عبد الرحمن الحذيفي (قالون)",
+   "englishName": "Ali Abdur-Rahman al-Huthaify (Qaloon)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.alihajjajsouissi",
+   "language": "ar",
+   "name": "علي حجاج السويسي",
+   "englishName": "Ali Hajjaj Souissi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.alzainmohamedahmed",
+   "language": "ar",
+   "name": "الزين محمد أحمد",
+   "englishName": "al-Zain Mohamed Ahmed",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.aymanswed",
+   "language": "ar",
+   "name": "أيمن سويد",
+   "englishName": "Ayman Swed",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.azizalili",
+   "language": "ar",
+   "name": "عزيز عليلي",
+   "englishName": "Aziz Alili",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.basselabdulrahmanraoui",
+   "language": "ar",
+   "name": "باسل عبد الرحمن الراوي",
+   "englishName": "Bassel Abdul-Rahman ar-Raoui",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.benkirane",
+   "language": "ar",
+   "name": "بنكيران",
+   "englishName": "Benkirane",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.darwishfarajdarwishalattar",
+   "language": "ar",
+   "name": "درويش فرج درويش العطار",
+   "englishName": "Darwish Faraj Darwish al-Attar",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.emadalmansary",
+   "language": "ar",
+   "name": "عماد المنصري",
+   "englishName": "Emad al-Mansary",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ezzatsabri",
+   "language": "ar",
+   "name": "عزت صبري",
+   "englishName": "Ezzat Sabri",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.faresabbad",
+   "language": "ar",
+   "name": "فارس عباد",
+   "englishName": "Fares Abbad",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.fouadalkhamiri",
+   "language": "ar",
+   "name": "فؤاد الخامري",
+   "englishName": "Fouad al-Khamiri",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.hamadsinan",
+   "language": "ar",
+   "name": "حمد سنان",
+   "englishName": "Hamad Sinan",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.hamdyalsayedtolbasaad",
+   "language": "ar",
+   "name": "حمدي السيد طلبة سعد",
+   "englishName": "Hamdy al-Sayed Tolba Saad",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.haniarrifai",
+   "language": "ar",
+   "name": "هاني الرفاعي",
+   "englishName": "Hani ar-Rifai",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.hasanhashem",
+   "language": "ar",
+   "name": "حسن هاشم",
+   "englishName": "Hasan Hashem",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.hassansaleh",
+   "language": "ar",
+   "name": "حسن صالح",
+   "englishName": "Hassan Saleh",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.hatemfarid",
+   "language": "ar",
+   "name": "حاتم فريد",
+   "englishName": "Hatem Farid",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ibrahimalakhdar",
+   "language": "ar",
+   "name": "إبراهيم الأخضر",
+   "englishName": "Ibrahim al-Akhdar",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ibrahimaldossari",
+   "language": "ar",
+   "name": "إبراهيم الدوسري",
+   "englishName": "Ibrahim ad-Dossari",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ibrahimaljormy",
+   "language": "ar",
+   "name": "إبراهيم الجرمي",
+   "englishName": "Ibrahim al-Jormy",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.ilhantok",
+   "language": "ar",
+   "name": "إلهان توك",
+   "englishName": "Ilhan Tok",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.imadzuhairhafez",
+   "language": "ar",
+   "name": "عماد زهير حافظ",
+   "englishName": "Imad Zuhair Hafez",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.jamaanalosaimi",
+   "language": "ar",
+   "name": "جمعان العصيمي",
+   "englishName": "Jamaan al-Osaimi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.jamalshakerabdullah",
+   "language": "ar",
+   "name": "جمال شاكر عبد الله",
+   "englishName": "Jamal Shaker Abdullah",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.jazzaalswaileh",
+   "language": "ar",
+   "name": "جزاع الصويلح",
+   "englishName": "Jazza al-Swaileh",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.kamel",
+   "language": "ar",
+   "name": "كامل",
+   "englishName": "Kamel",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.khaledalqahtani",
+   "language": "ar",
+   "name": "خالد القحطاني",
+   "englishName": "Khaled al-Qahtani",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.khaledbarakat",
+   "language": "ar",
+   "name": "خالد بركات",
+   "englishName": "Khaled Barakat",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.khalidabdulkafi",
+   "language": "ar",
+   "name": "خالد عبد الكافي",
+   "englishName": "Khalid Abdul-Kafi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.khalidaljalil",
+   "language": "ar",
+   "name": "خالد الجليل",
+   "englishName": "Khalid al-Jalil",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.khalidalmohanna",
+   "language": "ar",
+   "name": "خالد المهنا",
+   "englishName": "Khalid al-Mohanna",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.khalifaaltunaiji",
+   "language": "ar",
+   "name": "خليفة الطنيجي",
+   "englishName": "Khalifa at-Tunaiji",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.laayounelkouchi",
+   "language": "ar",
+   "name": "العيون الكوشي",
+   "englishName": "Laayoun el-Kouchi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.lesaintcorantraduitenfrancais",
+   "language": "ar",
+   "name": "القرآن الكريم مترجمًا بالفرنسية",
+   "englishName": "Le Saint Coran traduit en français",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mahershakhashiro",
+   "language": "ar",
+   "name": "ماهر شخاشيرو",
+   "englishName": "Maher Shakhashiro",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mahmoodalrifai",
+   "language": "ar",
+   "name": "محمود الرفاعي",
+   "englishName": "Mahmood al-Rifai",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mahmoudalialbanna",
+   "language": "ar",
+   "name": "محمود علي البنا",
+   "englishName": "Mahmoud Ali al-Banna",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mahmoudelsheimy",
+   "language": "ar",
+   "name": "محمود الشيمي",
+   "englishName": "Mahmoud el-Sheimy",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mahmoudsaaddarouich",
+   "language": "ar",
+   "name": "محمود سعد درويش",
+   "englishName": "Mahmoud Saad Darouich",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mahmoudsayedeltayeb",
+   "language": "ar",
+   "name": "محمود سيد الطيب",
+   "englishName": "Mahmoud Sayed el-Tayeb",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.misharyrashidalafasy",
+   "language": "ar",
+   "name": "مشاري راشد العفاسي",
+   "englishName": "Mishary Rashid Alafasy",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.moeedhalharthi",
+   "language": "ar",
+   "name": "معيض الحارثي",
+   "englishName": "Moeedh al-Harthi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedabdelaziz",
+   "language": "ar",
+   "name": "محمد عبد العزيز",
+   "englishName": "Mohamed Abdel-Aziz",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedabdelhakimsaadalabdullah",
+   "language": "ar",
+   "name": "محمد عبد الحكيم سعد العبد الله",
+   "englishName": "Mohamed Abdel-Hakim Saad al-Abdullah",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedaljaberyalheyani",
+   "language": "ar",
+   "name": "محمد الجابري الحياني",
+   "englishName": "Mohamed al-Jabery al-Heyani",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedalmohisni",
+   "language": "ar",
+   "name": "محمد المحيسني",
+   "englishName": "Mohamed al-Mohisni",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedelkantaoui",
+   "language": "ar",
+   "name": "محمد القنطاوي",
+   "englishName": "Mohamed el-Kantaoui",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedhassan",
+   "language": "ar",
+   "name": "محمد حسان",
+   "englishName": "Mohamed Hassan",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedmaabad",
+   "language": "ar",
+   "name": "محمد معبد",
+   "englishName": "Mohamed Maabad",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedosmankhan",
+   "language": "ar",
+   "name": "محمد عثمان خان",
+   "englishName": "Mohamed Osman Khan",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedshaabanabuqarn",
+   "language": "ar",
+   "name": "محمد شعبان أبو قرن",
+   "englishName": "Mohamed Shaaban Abu Qarn",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohamedtablawi",
+   "language": "ar",
+   "name": "محمد الطبلاوي",
+   "englishName": "Mohamed at-Tablawi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohammadismaeelalmuqaddim",
+   "language": "ar",
+   "name": "محمد إسماعيل المقدم",
+   "englishName": "Mohammad Ismaeel al-Muqaddim",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohammadrachadalshareef",
+   "language": "ar",
+   "name": "محمد رشاد الشريف",
+   "englishName": "Mohammad Rachad al-Shareef",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mohammedbinsalehabuzaid",
+   "language": "ar",
+   "name": "محمد بن صالح أبو زيد",
+   "englishName": "Mohammed bin Saleh Abu Zaid",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muftahalsaltany",
+   "language": "ar",
+   "name": "مفتاح السلطني",
+   "englishName": "Muftah al-Saltany",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadabdulkareem",
+   "language": "ar",
+   "name": "محمد عبد الكريم",
+   "englishName": "Muhammad Abdul-Kareem",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadalaalimaldokali",
+   "language": "ar",
+   "name": "محمد العالم الدوكالي",
+   "englishName": "Muhammad al-Aalim ad-Dokali",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadalluhaidan",
+   "language": "ar",
+   "name": "محمد اللحيدان",
+   "englishName": "Muhammad al-Luhaidan",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadalmehysni",
+   "language": "ar",
+   "name": "محمد المحيسني",
+   "englishName": "Muhammad al-Mehysni",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadalsubayyil",
+   "language": "ar",
+   "name": "محمد السبيل",
+   "englishName": "Muhammad as-Subayyil",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadanwarshahat",
+   "language": "ar",
+   "name": "محمد أنور شحات",
+   "englishName": "Muhammad Anwar Shahat",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadayyub",
+   "language": "ar",
+   "name": "محمد أيوب",
+   "englishName": "Muhammad Ayyub",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadsalehalimshah",
+   "language": "ar",
+   "name": "محمد صالح عالم شاه",
+   "englishName": "Muhammad Saleh Alim Shah",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadsiddiqalminshawimujawwad",
+   "language": "ar",
+   "name": "محمد صديق المنشاوي (مجوَّد)",
+   "englishName": "Muhammad Siddiq al-Minshawi (Mujawwad)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.muhammadsulaimanpatel",
+   "language": "ar",
+   "name": "محمد سليمان باتل",
+   "englishName": "Muhammad Sulaiman Patel",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.musabilal",
+   "language": "ar",
+   "name": "موسى بلال",
+   "englishName": "Musa Bilal",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mustafaallahouni",
+   "language": "ar",
+   "name": "مصطفى اللاهوني",
+   "englishName": "Mustafa al-Lahouni",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mustafaismail",
+   "language": "ar",
+   "name": "مصطفى إسماعيل",
+   "englishName": "Mustafa Ismail",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mustafaraadalazzawi",
+   "language": "ar",
+   "name": "مصطفى رعد العزاوي",
+   "englishName": "Mustafa Raad al-Azzawi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.mustaphagharbi",
+   "language": "ar",
+   "name": "مصطفى غربي",
+   "englishName": "Mustapha Gharbi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.nabilarrifai",
+   "language": "ar",
+   "name": "نبيل الرفاعي",
+   "englishName": "Nabil ar-Rifai",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.nasseralqatami",
+   "language": "ar",
+   "name": "ناصر القطامي",
+   "englishName": "Nasser al-Qatami",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.neamahalhassan",
+   "language": "ar",
+   "name": "نعمة الحسن",
+   "englishName": "Neamah al-Hassan",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.obeikan",
+   "language": "ar",
+   "name": "العبيكان",
+   "englishName": "al-Obeikan",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.oimaoqataris",
+   "language": "ar",
+   "name": "ar.oimaoqataris",
+   "englishName": "ar.oimaoqataris",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.omaralkazabri",
+   "language": "ar",
+   "name": "عمر القزابري",
+   "englishName": "Omar al-Kazabri",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.osamabinalialghanim",
+   "language": "ar",
+   "name": "أسامة بن علي الغانم",
+   "englishName": "Osama bin Ali al-Ghanim",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.rachidbelalia",
+   "language": "ar",
+   "name": "رشيد بلعالية",
+   "englishName": "Rachid Belalia",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.saberabdulhakam",
+   "language": "ar",
+   "name": "صابر عبد الحكم",
+   "englishName": "Saber Abdul-Hakam",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.sadaqatali",
+   "language": "ar",
+   "name": "صداقت علي",
+   "englishName": "Sadaqat Ali",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.sahlyasin",
+   "language": "ar",
+   "name": "سهل ياسين",
+   "englishName": "Sahl Yasin",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.saidalshaalan",
+   "language": "ar",
+   "name": "سعيد الشعلان",
+   "englishName": "Said ash-Shaalan",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.salahalbudair",
+   "language": "ar",
+   "name": "صلاح البدير",
+   "englishName": "Salah al-Budair",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.salahalhashem",
+   "language": "ar",
+   "name": "صلاح الهاشم",
+   "englishName": "Salah al-Hashem",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.salahbaothman",
+   "language": "ar",
+   "name": "صلاح باعثمان",
+   "englishName": "Salah Ba-Othman",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.samirbelaachya",
+   "language": "ar",
+   "name": "سمير بلعشية",
+   "englishName": "Samir Belaachya",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.saudalshuraim",
+   "language": "ar",
+   "name": "سعود الشريم",
+   "englishName": "Saud ash-Shuraim",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.sayedramadan",
+   "language": "ar",
+   "name": "سيد رمضان",
+   "englishName": "Sayed Ramadan",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.shahriarparhizgar",
+   "language": "ar",
+   "name": "شهريار پرهيزگار",
+   "englishName": "Shahriar Parhizgar",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.sudaisshuraymnaeemsultan",
+   "language": "ar",
+   "name": "السديس والشريم (مع ترجمة نعيم سلطان)",
+   "englishName": "Sudais & Shuraym (with Naeem Sultan translation)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.tamerislam",
+   "language": "ar",
+   "name": "تامر إسلام",
+   "englishName": "Tamer Islam",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.tareqabdulganidaawob",
+   "language": "ar",
+   "name": "طارق عبد الغني دعوب",
+   "englishName": "Tareq Abdul-Gani Daawob",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.tawfeeqassayegh",
+   "language": "ar",
+   "name": "توفيق الصايغ",
+   "englishName": "Tawfeeq as-Sayegh",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.turkiebeidalmarri",
+   "language": "ar",
+   "name": "تركي عبيد المري",
+   "englishName": "Turki Ebeid al-Marri",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.waeldesouky",
+   "language": "ar",
+   "name": "وائل الدسوقي",
+   "englishName": "Wael ad-Desouky",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.waelradwanqureshi",
+   "language": "ar",
+   "name": "وائل رضوان قريشي",
+   "englishName": "Wael Radwan Qureshi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.waleedidreesalmaneese",
+   "language": "ar",
+   "name": "وليد إدريس المنيسي",
+   "englishName": "Waleed Idrees al-Maneese",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.waleednaehi",
+   "language": "ar",
+   "name": "وليد الناهي",
+   "englishName": "Waleed an-Naehi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.waleedsamiraliabdulmajidsorour",
+   "language": "ar",
+   "name": "وليد سمير علي عبد المجيد سرور",
+   "englishName": "Waleed Samir Ali Abdul-Majid Sorour",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.walidalshatti",
+   "language": "ar",
+   "name": "وليد الشطي",
+   "englishName": "Walid ash-Shatti",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.walidfathibashta",
+   "language": "ar",
+   "name": "وليد فتحي بشتة",
+   "englishName": "Walid Fathi Bashta",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.yahyahawwa",
+   "language": "ar",
+   "name": "يحيى حوى",
+   "englishName": "Yahya Hawwa",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.yassenaljazairi",
+   "language": "ar",
+   "name": "ياسين الجزائري",
+   "englishName": "Yassen al-Jazairi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.yasseraldossari",
+   "language": "ar",
+   "name": "ياسر الدوسري",
+   "englishName": "Yasser ad-Dossari",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.yasseralmazroyee",
+   "language": "ar",
+   "name": "ياسر المزروعي",
+   "englishName": "Yasser al-Mazroyee",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.yasserqureshi",
+   "language": "ar",
+   "name": "ياسر قريشي",
+   "englishName": "Yasser Qureshi",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.yassersalama",
+   "language": "ar",
+   "name": "ياسر سلامة",
+   "englishName": "Yasser Salama",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.yassersarhaneldeeb",
+   "language": "ar",
+   "name": "ياسر سرحان الديب",
+   "englishName": "Yasser Sarhan el-Deeb",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.yousufalshoaey",
+   "language": "ar",
+   "name": "يوسف الشويعي",
+   "englishName": "Yousuf ash-Shoaey",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "ar.yousufbinnoahahmad",
+   "language": "ar",
+   "name": "يوسف بن نوح أحمد",
+   "englishName": "Yousuf bin Noah Ahmad",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "en.misharyrashidalafasyenglishtranslationsaheehibrahimwalk",
+   "language": "en",
+   "name": "Mishary Rashid Alafasy with Saheeh International translation (Ibrahim Walk)",
+   "englishName": "Mishary Rashid Alafasy with Saheeh International translation (Ibrahim Walk)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "en.muhammadayyubenglishtranslationmuhsinkhanmikaalwaters",
+   "language": "en",
+   "name": "Muhammad Ayyub with Muhsin Khan translation (Mikaal Waters)",
+   "englishName": "Muhammad Ayyub with Muhsin Khan translation (Mikaal Waters)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "en.sudaisandshuraymenglishtranslationpickthallaslamathar",
+   "language": "en",
+   "name": "Sudais & Shuraym with Pickthall translation (Aslam Athar)",
+   "englishName": "Sudais & Shuraym with Pickthall translation (Aslam Athar)",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "my.hashimtinmyint",
+   "language": "my",
+   "name": "Hashim Tin Myint",
+   "englishName": "Hashim Tin Myint",
+   "type": "surahbysurah",
+   "format": "audio"
+  },
+  {
+   "identifier": "uz.sodik-audio",
+   "language": "uz",
+   "name": "Мухаммад Содик",
+   "englishName": "Muhammad Sodik Muhammad Yusuf ",
+   "type": "versebyverse",
+   "format": "audio"
+  }
+ ]
+}

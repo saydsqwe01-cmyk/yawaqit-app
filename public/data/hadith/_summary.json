@@ -1,0 +1,65 @@
+{
+ "total_hadiths": 36512,
+ "books": [
+  {
+   "book": "bukhari",
+   "name_ar": "صحيح البخاري",
+   "count": 7589,
+   "error": null
+  },
+  {
+   "book": "muslim",
+   "name_ar": "صحيح مسلم",
+   "count": 7563,
+   "error": null
+  },
+  {
+   "book": "abudawud",
+   "name_ar": "سنن أبي داود",
+   "count": 5274,
+   "error": null
+  },
+  {
+   "book": "tirmidhi",
+   "name_ar": "جامع الترمذي",
+   "count": 3998,
+   "error": null
+  },
+  {
+   "book": "nasai",
+   "name_ar": "سنن النسائي",
+   "count": 5765,
+   "error": null
+  },
+  {
+   "book": "ibnmajah",
+   "name_ar": "سنن ابن ماجه",
+   "count": 4343,
+   "error": null
+  },
+  {
+   "book": "malik",
+   "name_ar": "موطأ مالك",
+   "count": 1858,
+   "error": null
+  },
+  {
+   "book": "nawawi",
+   "name_ar": "الأربعون النووية",
+   "count": 42,
+   "error": null
+  },
+  {
+   "book": "qudsi",
+   "name_ar": "الأحاديث القدسية",
+   "count": 40,
+   "error": null
+  },
+  {
+   "book": "dehlawi",
+   "name_ar": "الأربعون الدهلوية",
+   "count": 40,
+   "error": null
+  }
+ ]
+}

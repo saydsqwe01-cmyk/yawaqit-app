@@ -1,0 +1,47 @@
+{
+ "count": 7,
+ "resources": [
+  {
+   "id": 16,
+   "name": "التفسير الميسر",
+   "language": "ar",
+   "source": "quran.com"
+  },
+  {
+   "id": 93,
+   "name": "التفسير الوسيط",
+   "language": "ar",
+   "source": "quran.com"
+  },
+  {
+   "id": 90,
+   "name": "تفسير القرطبي",
+   "language": "ar",
+   "source": "quran.com"
+  },
+  {
+   "id": 15,
+   "name": "تفسير الطبري",
+   "language": "ar",
+   "source": "quran.com"
+  },
+  {
+   "id": 14,
+   "name": "تفسير ابن كثير",
+   "language": "ar",
+   "source": "quran.com"
+  },
+  {
+   "id": 91,
+   "name": "تفسير السعدي",
+   "language": "ar",
+   "source": "quran.com"
+  },
+  {
+   "id": 94,
+   "name": "تفسير البغوي",
+   "language": "ar",
+   "source": "quran.com"
+  }
+ ]
+}

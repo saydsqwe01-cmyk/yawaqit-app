@@ -1,0 +1,65 @@
+{
+ "total_hadiths": 36512,
+ "books": [
+  {
+   "name": "صحيح البخاري",
+   "slug": "bukhari_ar",
+   "count": 7589,
+   "file": "/data/hadith/books/bukhari_ar.json"
+  },
+  {
+   "name": "صحيح مسلم",
+   "slug": "muslim_ar",
+   "count": 7563,
+   "file": "/data/hadith/books/muslim_ar.json"
+  },
+  {
+   "name": "سنن أبي داود",
+   "slug": "abudawud_ar",
+   "count": 5274,
+   "file": "/data/hadith/books/abudawud_ar.json"
+  },
+  {
+   "name": "جامع الترمذي",
+   "slug": "tirmidhi_ar",
+   "count": 3998,
+   "file": "/data/hadith/books/tirmidhi_ar.json"
+  },
+  {
+   "name": "سنن النسائي",
+   "slug": "nasai_ar",
+   "count": 5765,
+   "file": "/data/hadith/books/nasai_ar.json"
+  },
+  {
+   "name": "سنن ابن ماجه",
+   "slug": "ibnmajah_ar",
+   "count": 4343,
+   "file": "/data/hadith/books/ibnmajah_ar.json"
+  },
+  {
+   "name": "موطأ مالك",
+   "slug": "malik_ar",
+   "count": 1858,
+   "file": "/data/hadith/books/malik_ar.json"
+  },
+  {
+   "name": "الأربعون النووية",
+   "slug": "nawawi_ar",
+   "count": 42,
+   "file": "/data/hadith/books/nawawi_ar.json"
+  },
+  {
+   "name": "الأحاديث القدسية",
+   "slug": "qudsi_ar",
+   "count": 40,
+   "file": "/data/hadith/books/qudsi_ar.json"
+  },
+  {
+   "name": "الأربعون الدهلوية",
+   "slug": "dehlawi_ar",
+   "count": 40,
+   "file": "/data/hadith/books/dehlawi_ar.json"
+  }
+ ]
+}

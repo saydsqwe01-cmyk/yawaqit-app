@@ -1,0 +1,9 @@
+{
+  "appId": "com.yawaqit.app",
+  "appName": "يَوَاقِيت",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "يَوَاقِيت",
+  "short_name": "يَوَاقِيت",
+  "description": "مواقيت الصلاة والقرآن والأذكار والتلاوات",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#242424",
+  "theme_color": "#08080a",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "197x188",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "/",
+  "categories": [
+    "lifestyle",
+    "education"
+  ],
+  "prefer_related_applications": false
+}

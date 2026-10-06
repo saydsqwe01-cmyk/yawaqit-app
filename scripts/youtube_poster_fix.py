@@ -1,0 +1,10 @@
+from pathlib import Path
+p=Path('/home/ubuntu/work/yawaqit_extract/index.html')
+s=p.read_text()
+old="<div class=\"card player\"><div class=\"thumb pv\" id=\"video-frame-wrap\"><img class=\"video-speaker\" src=\"/assets/sheikh-speaker.png\" alt=\"الشيخ\">${id?`<iframe class=\"ytframe\" src=\"https://www.youtube-nocookie.com/embed/${id}?rel=0&modestbranding=1&playsinline=1&enablejsapi=1\" title=\"${String(v[0]).replace(/\"/g,'')}\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" loading=\"lazy\" allowfullscreen></iframe>`:I(S.playing?'pause':'play')}</div>"
+new="<div class=\"card player\"><div class=\"thumb pv\" id=\"video-frame-wrap\"><img class=\"video-speaker\" src=\"/assets/sheikh-speaker.png\" alt=\"الشيخ\">${id?`<img class=\"video-poster\" src=\"https://i.ytimg.com/vi/${id}/hqdefault.jpg\" alt=\"\" loading=\"eager\" decoding=\"async\"><iframe class=\"ytframe\" src=\"https://www.youtube-nocookie.com/embed/${id}?rel=0&modestbranding=1&playsinline=1&enablejsapi=1\" title=\"${String(v[0]).replace(/\"/g,'')}\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" loading=\"eager\" onload=\"this.classList.add('ready')\" allowfullscreen></iframe>`:I(S.playing?'pause':'play')}</div>"
+if old not in s: raise SystemExit('main player pattern not found')
+s=s.replace(old,new)
+s=s.replace(".yt-thumb{display:block;width:100%;height:100%;object-fit:cover;border-radius:6px;background:#111}.ytframe{width:100%;height:100%;border:0", ".yt-thumb{display:block;width:100%;height:100%;object-fit:cover;border-radius:6px;background:#111}.video-poster{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;z-index:1}.player .ytframe{position:relative;z-index:2;opacity:0;transition:opacity .2s}.player .ytframe.ready{opacity:1}.ytframe{width:100%;height:100%;border:0")
+p.write_text(s)
+print('YouTube poster fallback applied')

@@ -1,0 +1,30 @@
+{
+  "name": "yawaqit",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "cap:sync": "pnpm build && npx cap sync",
+    "cap:add:android": "npx cap add android",
+    "cap:open:android": "npx cap open android"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/android": "latest",
+    "@capacitor/geolocation": "latest",
+    "@capacitor/local-notifications": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@capacitor/cli": "latest"
+  }
+}

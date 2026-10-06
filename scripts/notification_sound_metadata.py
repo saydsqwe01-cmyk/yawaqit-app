@@ -1,0 +1,10 @@
+from pathlib import Path
+p=Path('/home/ubuntu/work/yawaqit_extract/index.html')
+s=p.read_text()
+s=s.replace("tag:key,renotify:true,dir:'rtl'}", "tag:key,renotify:true,dir:'rtl',sound:'/notification-sound.mp3'}", 1)
+s=s.replace("tag,renotify:true,dir:'rtl',silent:false", "tag,renotify:true,dir:'rtl',silent:false,sound:'/notification-sound.mp3'", 1)
+p.write_text(s)
+sw=Path('/home/ubuntu/work/yawaqit_extract/public/sw.js')
+t=sw.read_text().replace("const CACHE='yawaqit-media-v7';", "const CACHE='yawaqit-media-v8';")
+sw.write_text(t)
+print('notification sound metadata added')
